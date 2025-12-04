@@ -29,9 +29,9 @@ Random Forest classifier achieved:
 
 | Metric | Value |
 |--------|--------|
-| **Accuracy** | 71.5% |
-| **Precision** | 62.2% |
-| **Recall** | 68.7% |
+| **Accuracy** | 72.1% |
+| **Precision** | 85.1% |
+| **Recall** | 77.1% |
 | **ROC AUC** | 0.664 |
 
 These are strong and realistic metrics for a 6-month predictive horizon in
