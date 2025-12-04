@@ -123,36 +123,40 @@ Visual outputs (in `reports/figures/`):
 
 ## ▶️ How to Run the Project
 
-1. Clone the repository
+### 1. Clone the repository
 
 git clone https://github.com/hernaninv/SPY-ROI-120d-ML-Model.git
 
-2. Install dependencies
+### 2. Install dependencies
 
 pip install -r requirements.txt
 
-3. Open the notebook
+### 3. Open the notebook
 
 Open the file:
 notebooks/SPY_ROI_120d_Model.ipynb
 Run all cells to reproduce feature engineering, model training, threshold optimization, and evaluation.
 
-💡 What This Project Demonstrates
+## 💡 What This Project Demonstrates
 
 This project highlights my ability to:
 
-Engineer domain-specific financial features
+* Engineer domain-specific financial features
 
-Apply ML models correctly to chronological data
+* Apply ML models correctly to chronological data
 
-Avoid look-ahead bias using proper validation
+* Avoid look-ahead bias using proper validation
 
-Perform threshold optimization
+* Perform threshold optimization
 
-Interpret model behavior with feature importance
+* Interpret model behavior with feature importance
 
-Communicate insights clearly for business and investment contexts
+* Communicate insights clearly for business and investment contexts
 
-📬 Contact
+## 📬 Contact
 
-Feel free to reach out if you'd like to discuss ML, financial analytics, time-series modeling, or data-driven research.
+Feel free to reach out if you'd like to discuss 
+* Machine learning
+* Financial analytics
+* Time-series modeling
+* Data-driven research.
