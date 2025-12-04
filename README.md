@@ -117,8 +117,8 @@ Visual outputs (in `reports/figures/`):
 │
 ├── requirements.txt
 ├── LICENSE
-└── README.md```
-
+└── README.md
+```
 
 
 ## ▶️ How to Run the Project
