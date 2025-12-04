@@ -98,11 +98,10 @@ Visual outputs (in `reports/figures/`):
 - Confusion Matrix  
 - Optimized Confusion Matrix  
 
----
-
 ## 📁 Repository Structure
 
-```SPY-ROI-120d-ML-Model/
+```
+SPY-ROI-120d-ML-Model/
 │
 ├── data/
 │   ├── raw/
