@@ -102,25 +102,26 @@ Visual outputs (in `reports/figures/`):
 
 ## 📁 Repository Structure
 
-SPY-ROI-120d-ML-Model/
+```SPY-ROI-120d-ML-Model/
 │
 ├── data/
-│ ├── raw/
-│ └── processed/
+│   ├── raw/
+│   └── processed/
 │
 ├── notebooks/
 │
 ├── src/
 │
 ├── reports/
-│ └── figures/
+│   └── figures/
 │
 ├── requirements.txt
 ├── LICENSE
-└── README.md
+└── README.md```
 
 
-▶️ How to Run the Project
+
+## ▶️ How to Run the Project
 
 1. Clone the repository
 
